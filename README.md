@@ -6,6 +6,9 @@
 
 > Forward messages from Telegram and automatically add them to your Attio CRM with just a few taps.
 
+![Telegram Bot Interface](tg-attio-1.png)
+![Attio CRM Integration](tg-attio-2.png)
+
 ## What It Does
 
 This bot allows you to forward messages from Telegram group chats or direct messages and seamlessly add them to the appropriate company record in your Attio CRM. Perfect for teams that communicate with customers through Telegram and want to keep everything organized in their CRM.
